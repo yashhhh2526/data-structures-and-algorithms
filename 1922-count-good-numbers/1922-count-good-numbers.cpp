@@ -5,13 +5,13 @@ class Solution {
         if (n == 0) return 1;
 
         long long half = power(x, n / 2);
-        long long ans = (half * half) % MOD;
+        
 
-        if (n & 1) {
-            ans = (ans * x) % MOD;
+        if (n %2 == 0) {
+            return (half*half)%MOD;
         }
 
-        return ans;
+        return (x*half*half)%MOD ;
     }
 
 public:
