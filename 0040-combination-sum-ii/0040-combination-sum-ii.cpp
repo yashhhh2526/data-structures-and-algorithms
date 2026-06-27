@@ -1,44 +1,38 @@
 class Solution {
 private:
-    void solve(vector<int>& nums,
+    void solve(int idx, vector<int>& nums,
                vector<vector<int>>& res,
-               vector<int>& curr,
-               int i,
-               int k,
-               int sum) {
+               vector<int>& curr, int n,int target) {
 
-        if (sum == k) {
+
+        if(target == 0){
             res.push_back(curr);
-            return;
         }
 
-        if (sum > k || i >= nums.size())
-            return;
+        for (int i = idx; i < n; i++) {
 
-        // Take
-        curr.push_back(nums[i]);
-        solve(nums, res, curr, i + 1, k, sum + nums[i]);
-        curr.pop_back();
+            if (i > idx && nums[i] == nums[i - 1]) {
+                continue;
+            }
+            if(nums[i]>target){
+                break;
+            }
 
-        // Skip duplicates
-        int j = i;
-        while (j + 1 < nums.size() && nums[j] == nums[j + 1])
-            j++;
-
-        // Not take
-        solve(nums, res, curr, j + 1, k, sum);
+            curr.push_back(nums[i]);
+            solve(i + 1, nums, res,curr, n,target-nums[i]);
+            curr.pop_back();
+        }
     }
 
 public:
-    vector<vector<int>> combinationSum2(vector<int>& candidates,
-                                        int target) {
+    vector<vector<int>> combinationSum2(vector<int>& nums,int target) {
 
-        sort(candidates.begin(), candidates.end());
+        sort(nums.begin(), nums.end());
 
         vector<vector<int>> res;
         vector<int> curr;
 
-        solve(candidates, res, curr, 0, target, 0);
+        solve(0, nums, res, curr, nums.size(),target);
 
         return res;
     }
