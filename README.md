@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
