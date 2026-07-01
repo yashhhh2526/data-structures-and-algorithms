@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0051-n-queens) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0051-n-queens) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
