@@ -1,22 +1,23 @@
 class Solution {
-    double power(double x, long long n) {
-        if (n == 0) return 1;
-
-        double half = power(x, n / 2);
-
-        if (n % 2 == 0)
-            return half * half;
-
-        return x * half * half;
-    }
-
 public:
     double myPow(double x, int n) {
-        long long N = n;
+        long long exp = n;
 
-        if (N < 0)
-            return 1.0 / power(x, -N);
+        if (exp < 0) {
+            x = 1 / x;
+            exp = -exp;
+        }
 
-        return power(x, N);
+        double result = 1.0;
+
+        while (exp > 0) {
+            if (exp & 1)
+                result *= x;
+
+            x *= x;
+            exp >>= 1;
+        }
+
+        return result;
     }
 };
