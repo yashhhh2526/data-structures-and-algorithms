@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
+| [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0260-single-number-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
