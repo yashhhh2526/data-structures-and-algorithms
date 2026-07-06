@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [1537-get-the-maximum-score](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1537-get-the-maximum-score) |
 ## String
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0079-word-search) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
