@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1537-get-the-maximum-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
