@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
+| [0402-remove-k-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [1537-get-the-maximum-score](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1537-get-the-maximum-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0735-asteroid-collision) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
