@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
