@@ -5,16 +5,12 @@ public:
         for(auto num : arr){
             mpp[num]++;
         }
-        vector<int> res;
+        int mx = -1;
         for(auto& it : mpp){
             if(it.first == it.second){
-                res.push_back(it.first);
+                mx = max(mx,it.first);
             }
         }
-        if(res.empty()){
-            return -1;
-        }else{
-            return res.back();
-        }
+        return mx;
     }
 };
