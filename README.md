@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
