@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0078-subsets) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
