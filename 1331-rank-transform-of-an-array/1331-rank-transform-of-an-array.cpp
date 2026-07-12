@@ -4,7 +4,7 @@ public:
         int n = arr.size();
         vector<int> temp = arr;
         sort(temp.begin(),temp.end());
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         int rank = 0;
         for(int i = 0;i<n;i++){
             if(mp.find(temp[i]) == mp.end()){
