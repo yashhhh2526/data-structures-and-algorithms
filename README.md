@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [1537-get-the-maximum-score](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1537-get-the-maximum-score) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0039-combination-sum) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [1537-get-the-maximum-score](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1537-get-the-maximum-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
