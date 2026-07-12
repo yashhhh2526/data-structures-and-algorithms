@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0460-lfu-cache) |
 ## Number Theory
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -312,4 +315,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
