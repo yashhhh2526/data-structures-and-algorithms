@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1288-remove-covered-intervals](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1288-remove-covered-intervals) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
