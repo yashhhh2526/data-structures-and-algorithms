@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1331-rank-transform-of-an-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
