@@ -1,24 +1,24 @@
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
-        int n1 = word1.length();
-        int n2 = word2.length();
-        int i = 0, j = 0;
-        string res;
-        while(i<n1 && j  < n2){
-            res = res + word1[i];
-            res = res + word2[j];
-            i++;
-            j++;
+        int i = 0;
+        int j = 0;
+
+        string answer;
+
+        while (i < word1.size() || j < word2.size()) {
+
+            if (i < word1.size()) {
+                answer += word1[i];
+                i++;
+            }
+
+            if (j < word2.size()) {
+                answer += word2[j];
+                j++;
+            }
         }
-        while(i<n1){
-            res = res + word1[i];
-            i++;
-        }
-        while(j<n2){
-            res = res + word2[j];
-            j++;
-        }
-        return res;
+
+        return answer;
     }
 };
