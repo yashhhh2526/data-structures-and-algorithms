@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |
