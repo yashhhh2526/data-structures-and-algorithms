@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
