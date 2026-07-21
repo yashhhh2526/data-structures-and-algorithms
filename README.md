@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
+| [0846-hand-of-straights](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0992-subarrays-with-k-different-integers) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0846-hand-of-straights](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0846-hand-of-straights) |
 | [1537-get-the-maximum-score](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1537-get-the-maximum-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0846-hand-of-straights](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
