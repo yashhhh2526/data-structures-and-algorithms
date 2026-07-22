@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0846-hand-of-straights) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1748-sum-of-unique-elements) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0860-lemonade-change) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -315,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2812-find-the-safest-path-in-a-grid) |
