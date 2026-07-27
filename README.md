@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0079-word-search) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
