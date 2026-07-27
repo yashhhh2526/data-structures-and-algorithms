@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
