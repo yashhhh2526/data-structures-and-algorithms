@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2390-removing-stars-from-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3536-maximum-product-of-two-digits) |
 ## Depth-First Search
 |  |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
