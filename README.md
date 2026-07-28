@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1537-get-the-maximum-score](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1537-get-the-maximum-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
