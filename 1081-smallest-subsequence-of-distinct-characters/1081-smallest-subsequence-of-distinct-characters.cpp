@@ -15,9 +15,7 @@ public:
             if (visited[c - 'a'])
                 continue;
 
-            while (!st.empty() &&
-                   c < st.top() &&
-                   freq[st.top() - 'a'] > 0) {
+            while (!st.empty() && c < st.top() && freq[st.top() - 'a'] > 0) {
                 visited[st.top() - 'a'] = false;
                 st.pop();
             }
