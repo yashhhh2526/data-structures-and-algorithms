@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1748-sum-of-unique-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
