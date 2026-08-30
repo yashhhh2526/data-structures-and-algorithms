@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1748-sum-of-unique-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
