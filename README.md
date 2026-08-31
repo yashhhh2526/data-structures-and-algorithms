@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3536-maximum-product-of-two-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2390-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
