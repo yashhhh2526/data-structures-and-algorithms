@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0460-lfu-cache) |
