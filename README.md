@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
