@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1922-count-good-numbers) |
@@ -534,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0547-number-of-provinces) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
