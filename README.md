@@ -564,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0207-course-schedule) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
