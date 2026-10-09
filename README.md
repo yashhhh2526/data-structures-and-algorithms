@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -569,4 +571,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
