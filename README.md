@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1537-get-the-maximum-score](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1537-get-the-maximum-score) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -579,4 +582,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
