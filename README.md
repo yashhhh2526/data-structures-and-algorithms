@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/2390-removing-stars-from-a-string) |
@@ -576,4 +578,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
