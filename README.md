@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
