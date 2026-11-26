@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0200-number-of-islands) |
