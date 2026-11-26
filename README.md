@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0231-power-of-two) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Graph Theory
 |  |
