@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1537-get-the-maximum-score](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1537-get-the-maximum-score) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 | [1572-matrix-diagonal-sum](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/1572-matrix-diagonal-sum) |
