@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0198-house-robber) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yashhhh2526/data-structures-and-algorithms/tree/master/0198-house-robber) |
